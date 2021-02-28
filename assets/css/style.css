@@ -86,6 +86,27 @@ main {
     margin-left: 20px;
 }
 
+/* styles box for services class as well as font */
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* ensures imgages stay uniform */
+.services img {
+    max-height: 200px;
+}
+
+/* sets font size and adds margin to h2 elements in services */
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* Sets box for side article section */
 article {
     margin-right: 20px;
@@ -115,27 +136,6 @@ section h3 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* styles box for services class as well as font */
-.services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* ensures imgages stay uniform */
-.services img {
-    max-height: 200px;
-}
-
-/* sets font size and adds margin to h2 elements in services */
-.services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* styles footer, sets box dimenstions and font size and families */
