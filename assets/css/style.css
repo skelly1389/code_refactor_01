@@ -1,13 +1,16 @@
+/* Universally sets box sizing, padding and margin until specified otherwise elsewhere */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* sets background color for visiable potion of page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Sets box for header element at top of page, specifies font and unique background color */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,19 @@ header {
     color: #ffffff;
 }
 
+/* Styles text at top of page */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changes "seo" in text to stand out as a different color */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+
+/* sets dimensions and font styling for navigation bar box */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,21 +39,25 @@ header nav {
     font-size: 20px;
 }
 
+/* Sets navigation links to display side by side and to the right of company name */
 header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Makes sure anchor links appear white */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets <p> elements text size */
 p {
     font-size: 16px;
 }
 
+/* Renders an image under the title above main section of site */
 #backgroundimage {
     height: 800px;
     width: 100%;
@@ -56,23 +67,27 @@ p {
     background-position: center;
 }
 
+/* Sets asset to appear to the left of text */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets asset to appear to the right of text */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets box for main section of site */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* Sets box for side article section */
+article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -83,22 +98,26 @@ main {
     background-color: #2589bd;
 }
 
+/* sets background color of indivual blurbs and adds margin to differentiate between them */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets h3 headers to center and adds buffer underneath */
 section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* formats article imgages to be centered above text */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* styles box for services class as well as font */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -108,15 +127,18 @@ section h3 {
     color: #ffffff;
 }
 
+/* ensures imgages stay uniform */
 .services img {
     max-height: 200px;
 }
 
+/* sets font size and adds margin to h2 elements in services */
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* styles footer, sets box dimenstions and font size and families */
 footer {
     padding: 30px;
     clear: both;
