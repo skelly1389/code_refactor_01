@@ -2,7 +2,7 @@
 
 ## Description
 
-Client requested code refactoring to increase SEO and accessability. Code did not include semantic elements and contained redundant css seletors. By solving this the end site become more accessable to the end user, is easier to read as a coder, and takes up fewer lines of code.
+Client requested code refactoring to increase SEO and accessability. Code did not include semantic elements and contained redundant css selectors. By solving this the end site become more accessable to the end user, is easier to read as a coder, and takes up fewer lines of code.
 
 ## Installation
 Live site at [https://skelly1389.github.io/code_refactor_01/](https://skelly1389.github.io/code_refactor_01/)
@@ -50,3 +50,11 @@ SOFTWARE.
 ## Badges
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Features
+
+- Semantic HTML elements
+- Simplified css selectors
+- Images contain alt tags
+- Navigation links function
+- Favicon and title support
