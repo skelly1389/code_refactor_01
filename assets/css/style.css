@@ -107,8 +107,8 @@ main {
     font-size: 36px;
 }
 
-/* Sets box for side article section */
-article {
+/* Sets box for side aside section */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
