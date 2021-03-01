@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* sets background color for visiable potion of page */
+/* sets background color for visible potion of page */
 body {
     background-color: #d9dcd6;
 }
@@ -96,7 +96,7 @@ main {
     color: #ffffff;
 }
 
-/* ensures imgages stay uniform */
+/* ensures images stay uniform */
 .services img {
     max-height: 200px;
 }
@@ -119,7 +119,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* sets background color of indivual blurbs and adds margin to differentiate between them */
+/* sets background color of individual blurbs and adds margin to differentiate between them */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -131,14 +131,14 @@ section h3 {
     text-align: center;
 }
 
-/* formats article imgages to be centered above text */
+/* formats article images to be centered above text */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* styles footer, sets box dimenstions and font size and families */
+/* styles footer, sets box dimensions and font size and families */
 footer {
     padding: 30px;
     clear: both;
