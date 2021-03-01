@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-/* sets background color for visible potion of page */
+/* sets background color for visible portion of page */
 body {
     background-color: #d9dcd6;
 }
@@ -107,7 +107,7 @@ main {
     font-size: 36px;
 }
 
-/* Sets box for side aside section */
+/* Sets box for aside section */
 aside {
     margin-right: 20px;
     padding: 20px;
