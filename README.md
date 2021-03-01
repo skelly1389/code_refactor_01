@@ -11,11 +11,11 @@ Live site at [https://skelly1389.github.io/code_refactor_01/](https://skelly1389
 
 By visiting the url in installation the website should render as such in resolutions greater than 768 pixels:
     :
-    ![Top of Page](assets/images/screenshot1.png)
+    ![Top of Page](assets/screenshots/screenshot1.png)
     :
-    ![Middle of Page](assets/images/screenshot2.png)
+    ![Middle of Page](assets/screenshots/screenshot2.png)
     :
-    ![Bottom of Page](assets/images/screenshot3.png)
+    ![Bottom of Page](assets/screenshots/screenshot3.png)
 
 ## Credits
 
